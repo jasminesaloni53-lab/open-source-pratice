@@ -1,2 +1,3 @@
-# open-source-pratice
-My first open source project
+## About Me
+i am learning Open source and github.
+this is my first contribution practice.
